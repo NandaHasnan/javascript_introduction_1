@@ -1,30 +1,20 @@
 const biodata = {
-    name: "Bagus", // Nama (string)
-    age: 25, // Usia (number)
+    name: "Nanda", // Nama (string)
+    age: 24, // Usia (number)
     hobbies: "reading", // Hobi (array of string)
     isMarried: false, // Status pernikahan (boolean)
     schoolList: [ // Daftar sekolah (array of object)
         {
-            name: "University of Example", // Nama sekolah (string)
-            yearIn: 2015, // Tahun masuk (number)
-            yearOut: 2019, // Tahun keluar (number)
-            major: "Computer Science" // Jurusan (string)
-        },
-        {
-            name: "High School Example", // Nama sekolah (string)
-            yearIn: 2012, // Tahun masuk (number)
-            yearOut: 2015, // Tahun keluar (number)
-            major: null // Jurusan (null karena tidak ada jurusan spesifik)
+            name: "University Teknologi Yogyakarta", // Nama sekolah (string)
+            yearIn: 2019, // Tahun masuk (number)
+            yearOut: 2023, // Tahun keluar (number)
+            major: "Informatic" // Jurusan (string)
         }
     ],
     skills: [ // Daftar keterampilan (array of object)
         {
             skillName: "JavaScript", // Nama keterampilan (string)
-            level: "advanced" // Tingkat keterampilan (beginner, advanced, expert)
-        },
-        {
-            skillName: "Python", // Nama keterampilan (string)
-            level: "beginner" // Tingkat keterampilan (beginner, advanced, expert)
+            level: "Beginner" // Tingkat keterampilan (beginner, advanced, expert)
         }
     ],
     interestInCoding: true // Minat dalam coding (boolean)
