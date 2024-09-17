@@ -141,9 +141,3 @@ The output will be the updated object:
 
 ## Contributors
 - **NandaHasnan**: Initial script development.
-
-## License
-This project is licensed under the MIT License.
-```
-
-This README provides an overview of the two scripts, instructions on how to run them, and examples of their usage. Let me know if you need any adjustments or additional sections!
